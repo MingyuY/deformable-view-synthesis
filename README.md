@@ -1,2 +1,2 @@
 # deformable-view-synthesis
-Training code for the paper Conditional deformable view synthesis based on upaired data
+Training code for "Novel View Synthesis on Unpaired Data by Conditional Deformable  Variational Auto-Encoder" ECCV2020
