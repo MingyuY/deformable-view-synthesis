@@ -6,11 +6,12 @@ Tensorflow implementation of [**Novel View Synthesis on Unpaired Data by Conditi
 <p align="center"> <img src="./results/architecture2.pdf" width="95%"><br><center></center></p>
 
 ## Experiment Results
+- chair
+<p align="center"> <img src="./results/chair2.pdf" width="95%"><br><center></center></p>
+<p align="center"> <img src="./results/chair.pdf" width="95%"><br><center></center></p>
+
 - Face
 <p align="center"> <img src="./results/face.pdf" width="95%"><br><center></center></p>
-
-- chair
-<p align="center"> <img src="./results/chair.pdf" width="95%"><br><center></center></p>
 
 - interpolation
 <p align="center"> <img src="./results/interpolation.pdf" width="95%"><br><center></center></p>
