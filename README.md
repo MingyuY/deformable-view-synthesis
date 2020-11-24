@@ -29,8 +29,7 @@ Tensorflow implementation of [**Novel View Synthesis on Unpaired Data by Conditi
         - model should be placed in ./models/
 ## Quick Start
 
-Exemplar commands are listed here for a quick start.https://www.di.ens.fr/willow/research/seeing3Dchairs/
-
+Exemplar commands are listed here for a quick start.
 ### dataset
 - prepare dataset
 
@@ -38,7 +37,7 @@ Exemplar commands are listed here for a quick start.https://www.di.ens.fr/willow
     python dataset.py --path 'Path to Training Dataset'
 
 ### Training
-- To train on chair dataset with size of 128 X 128
+- To train with size of 128 X 128
 
     ```console
     python cdvae.py --mode training --batch_size 32
