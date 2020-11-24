@@ -35,7 +35,7 @@ Exemplar commands are listed here for a quick start.https://www.di.ens.fr/willow
 - prepare dataset
 
     ```console
-    python dataset.py --path 'datasets/rendered_chairs'
+    python dataset.py --path 'Path to Training Dataset'
 
 ### Training
 - To train on chair dataset with size of 128 X 128
