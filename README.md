@@ -8,9 +8,6 @@ Tensorflow implementation of [**Novel View Synthesis on Unpaired Data by Conditi
 - chair
 <p align="center"> <img src="./results/chair.png" width="95%"><br><center></center></p>
 
-- Face
-<p align="center"> <img src="./results/face.png" width="95%"><br><center></center></p>
-
 - interpolation
 <p align="center"> <img src="./results/interpolation.png" width="95%"><br><center></center></p>
 
