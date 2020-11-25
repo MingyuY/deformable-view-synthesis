@@ -2,14 +2,14 @@
 Tensorflow implementation of [**Novel View Synthesis on Unpaired Data by Conditional Deformable Variational Auto-Encoder**](https://arxiv.org/pdf/2007.10618).
 
 **The network architecture**
-<p align="center"> <img src="./results/architecture.png" width="95%"><br><center></center></p>
+<p align="center"> <img src="https://github.com/MingyuY/deformable-view-synthesis/blob/master/results/architecture.png" width="95%"><br><center></center></p>
 
 ## Experiment Results
 - chair
-<p align="center"> <img src="./results/chair.png" width="95%"><br><center></center></p>
+<p align="center"> <img src="https://github.com/MingyuY/deformable-view-synthesis/blob/master/results/chair.png" width="95%"><br><center></center></p>
 
 - interpolation
-<p align="center"> <img src="./results/interpolation.png" width="95%"><br><center></center></p>
+<p align="center"> <img src="https://github.com/MingyuY/deformable-view-synthesis/blob/master/results//interpolation.png" width="95%"><br><center></center></p>
 
 ## Preparation
 
