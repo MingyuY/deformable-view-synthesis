@@ -21,7 +21,7 @@ Tensorflow implementation of [**Novel View Synthesis on Unpaired Data by Conditi
     - [MultiPIE](http://www.cs.cmu.edu/afs/cs/project/PIE/MultiPie/Multi-Pie/Home.html)
 	- Images should be placed in ./datasets/
 - **Download model**
-    - [Tool](http://download.tensorflow.org/models/vgg_16_2016_08_28.tar.gz)
+    - [Tool model](http://download.tensorflow.org/models/vgg_16_2016_08_28.tar.gz)
         - model should be placed in ./models/
 ## Quick Start
 
