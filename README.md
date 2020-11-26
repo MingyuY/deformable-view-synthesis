@@ -36,7 +36,7 @@ Exemplar commands are listed here for a quick start.
 - To train with size of 128 X 128
 
     ```console
-    python cdvae.py --mode training --batch_size 32
+    python cdvae.py --mode training
     ```
 
 ### Testing
